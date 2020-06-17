@@ -1,0 +1,297 @@
+
+---Downloaded files---
+The import files for: Demo One were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://actu_retro.localhost
+Data file = /var/www/actu_retro/wp-content/uploads/2020/06/demo-content-import-file_2020-06-15__20-18-14.xml
+Widget file = /var/www/actu_retro/wp-content/uploads/2020/06/demo-widgets-import-file_2020-06-15__20-18-14.json
+Customizer file = /var/www/actu_retro/wp-content/uploads/2020/06/demo-customizer-import-file_2020-06-15__20-18-14.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+------
+Completed AJAX call number: 9
+
+
+------
+Completed AJAX call number: 10
+
+
+------
+Completed AJAX call number: 11
+
+
+------
+Completed AJAX call number: 12
+
+
+------
+Completed AJAX call number: 13
+
+
+------
+Completed AJAX call number: 14
+
+
+------
+Completed AJAX call number: 15
+
+
+------
+Completed AJAX call number: 16
+
+
+------
+Completed AJAX call number: 17
+
+
+------
+Completed AJAX call number: 18
+
+
+------
+Completed AJAX call number: 19
+
+
+------
+Completed AJAX call number: 20
+
+
+------
+Completed AJAX call number: 21
+
+
+------
+Completed AJAX call number: 22
+
+
+------
+Completed AJAX call number: 23
+
+
+------
+Completed AJAX call number: 24
+
+
+------
+Completed AJAX call number: 25
+
+
+------
+Completed AJAX call number: 25
+
+
+------
+Completed AJAX call number: 26
+
+
+------
+Completed AJAX call number: 27
+
+
+------
+Completed AJAX call number: 28
+
+
+------
+Completed AJAX call number: 29
+
+
+------
+Completed AJAX call number: 30
+
+
+------
+Completed AJAX call number: 31
+
+
+------
+Completed AJAX call number: 32
+
+
+------
+Completed AJAX call number: 33
+
+
+------
+Completed AJAX call number: 34
+
+
+------
+Completed AJAX call number: 35
+
+
+------
+Completed AJAX call number: 36
+
+
+------
+Completed AJAX call number: 37
+
+
+------
+Completed AJAX call number: 38
+
+
+------
+Completed AJAX call number: 39
+
+
+------
+Completed AJAX call number: 40
+
+
+------
+Completed AJAX call number: 41
+
+
+------
+Completed AJAX call number: 42
+
+
+------
+Completed AJAX call number: 43
+
+
+------
+Completed AJAX call number: 44
+
+
+------
+Completed AJAX call number: 45
+
+
+------
+Completed AJAX call number: 46
+
+
+------
+Completed AJAX call number: 47
+
+
+------
+Completed AJAX call number: 48
+
+
+------
+Completed AJAX call number: 49
+
+
+------
+Completed AJAX call number: 50
+
+
+------
+Completed AJAX call number: 51
+
+
+------
+Completed AJAX call number: 52
+
+
+------
+Completed AJAX call number: 53
+
+
+------
+Completed AJAX call number: 54
+
+
+------
+Completed AJAX call number: 55
+
+
+------
+Completed AJAX call number: 56
+
+
+------
+Completed AJAX call number: 57
+
+
+------
+Completed AJAX call number: 58
+
+
+------
+Completed AJAX call number: 59
+
+
+------
+Completed AJAX call number: 60
+
+
+------
+Completed AJAX call number: 61
+
+
+------
+Completed AJAX call number: 62
+
+
+------
+Completed AJAX call number: 63
+
+
+------
+Completed AJAX call number: 64
+
+
+------
+Completed AJAX call number: 65
+
+
+------
+Completed AJAX call number: 66
+
+
+------
+Completed AJAX call number: 67
+
+
+------
+Completed AJAX call number: 68
+
+
+------
+Completed AJAX call number: 69
+
+
+------
+Completed AJAX call number: 69
+
+
+------
+Completed AJAX call number: 70
+
