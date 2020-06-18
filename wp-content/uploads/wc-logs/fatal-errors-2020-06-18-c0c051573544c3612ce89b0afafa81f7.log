@@ -1,0 +1,8 @@
+2020-06-18T09:47:27+00:00 CRITICAL syntax error, unexpected '<', expecting end of file dans /var/www/actu_retro/wp-content/themes/ecommerce-lite-child/footer.php à la ligne 26
+
+2020-06-18T13:30:08+00:00 CRITICAL syntax error, unexpected '=', expecting ')' dans /var/www/actu_retro/wp-content/plugins/satisfaction/satisfaction.php à la ligne 41
+
+2020-06-18T13:30:09+00:00 CRITICAL syntax error, unexpected '=', expecting ')' dans /var/www/actu_retro/wp-content/plugins/satisfaction/satisfaction.php à la ligne 41
+
+2020-06-18T13:30:09+00:00 CRITICAL syntax error, unexpected '=', expecting ')' dans /var/www/actu_retro/wp-content/plugins/satisfaction/satisfaction.php à la ligne 41
+
